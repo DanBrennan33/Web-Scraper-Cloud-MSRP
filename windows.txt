@@ -1,0 +1,20 @@
+﻿<h3 class="heading">General Purpose</h3>
+<h3>A0-4 – Basic <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#a-series">More information</a></h3>
+<h3>Av2 Standard <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#a-series">More information</a></h3>
+<h3>D1-5 – v2-Latest Generation <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#d-series">More information</a></h3>
+<h3>D1-4 – v1 <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#d-series">More information</a></h3>
+<h3>A0-7 – Standard <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#a-series">More information</a></h3>
+<h3 class="heading">Compute Optimized</h3>
+<h3>F Series <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#f-series">More information</a></h3>
+<h3 class="heading">Memory Optimized</h3>
+<h3>D11-15 – v2 <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#d-series">More information</a></h3>
+<h3>D11-14 – v1 <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#d-series">More information</a></h3>
+<h3>G Series <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#g-series">More information</a></h3>
+<h3 class="heading">GPU</h3>
+<h3>NC Series <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#n-series">More information</a></h3>
+<h3>NV Series <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#n-series">More information</a></h3>
+<h3 class="heading">High Performance Compute</h3>
+<h3>H Series <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#h-series">More information</a></h3>
+<h3>A8-11 <a class="arrowLink text-heading5" href="/en-us/pricing/details/virtual-machines/series/#a-series">More information</a></h3>
+<h3>General</h3>
+<h3>Windows Server</h3>
